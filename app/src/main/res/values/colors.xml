@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#128C7E</color>
+    <color name="colorPrimaryDark">#075E54</color>
+    <color name="colorAccent">#25D366</color>
+    <color name="colorBottomBar">@color/colorPrimary</color>
+    <color name="colorLightGray">#CDCDCD</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="warning_color">#f4511e</color>
+    <color name="hint_color">#42000000</color>
+    <color name="success_color">#009688</color>
+</resources>

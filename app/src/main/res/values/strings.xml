@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Password Bank</string>
+
+    <string name="title_home">Home</string>
+    <string name="title_downloaded">Salvos</string>
+    <string name="title_person">Conta</string>
+
+    <string name="logoff_button_text"><u>Deslogar</u></string>
+
+    <string name="instructions">Coloque seu dedo sobre o detector de biometria</string>
+
+
+    <string name="app_package">com.vitor.testecedro</string>
+
+    <string name="cancel">Cancelar</string>
+    <string name="use_password">Use sua senha</string>
+    <string name="ok">OK</string>
+    <string name="sign_in">Cadastre sua biometria</string>
+
+    <string name="fingerprint_hint">Toque no sensor</string>
+    <string name="fingerprint_success">Biometria reconhecida</string>
+    <string name="fingerprint_not_recognized">Biometria não reconhecida. Tente novamente.</string>
+
+    <string name="use_fingerprint_to_authenticate_key" >use_fingerprint_to_authenticate_key</string>
+
+
+</resources>

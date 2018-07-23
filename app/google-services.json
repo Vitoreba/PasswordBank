@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "281222426283",
+    "firebase_url": "https://teste-cedro.firebaseio.com",
+    "project_id": "teste-cedro",
+    "storage_bucket": "teste-cedro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281222426283:android:b67248d2a441fb08",
+        "android_client_info": {
+          "package_name": "com.vitor.testecedro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281222426283-r0thb6a3f80t4l2pra7j956sh1d0iloa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLBrp-ookEyZT5aRc8JfyyCVd2qgCL9Bs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
